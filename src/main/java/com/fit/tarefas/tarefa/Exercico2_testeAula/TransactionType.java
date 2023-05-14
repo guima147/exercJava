@@ -1,4 +1,4 @@
-package com.fit.tarefas.tarefa.Exercico2;
+package com.fit.tarefas.tarefa.Exercico2_testeAula;
 
 
 import java.math.BigDecimal;
